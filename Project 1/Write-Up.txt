@@ -1,0 +1,7 @@
+In this simulation, you create a triangle by moving the sliders to determine the lengths of the three sides, as well as the height.
+Based on what you input for those, you will then see the perimeter and area of the triangle you have made.
+
+What makes this interesting is that not all of the measurements you determine correspond to both the perimeter and the area.
+For example, if you leave the base at 0, then the area will remain at 0 as well.
+Technically speaking, you won't have a triangle at all then, but the point still stands.
+So, make sure you pick a number for everything! :)
